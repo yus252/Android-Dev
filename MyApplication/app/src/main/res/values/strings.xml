@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="my_great_app">My Great App</string>
+    <string name="button">Button</string>
+    <string name="your_name">Your Name</string>
+    <string name="my_app">My App</string>
 </resources>
